@@ -1,4 +1,0 @@
-{
-    "presets": ["env", "es2016", "es2015", "stage-0"],
-    "plugins": ["transform-runtime", "transform-flow-comments"]
-}
